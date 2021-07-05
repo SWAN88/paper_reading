@@ -6,8 +6,6 @@ The tracker of my paper reading
 To manage the paper reading, I'll use issue & label in GitHub 
 
 # Format
-
-'''
     # Paper info
     URL: 
     # What is it about??
@@ -23,4 +21,5 @@ To manage the paper reading, I'll use issue & label in GitHub
     # What's next to read??
 
     # Comments
-'''
+
+### The exmaple #1
