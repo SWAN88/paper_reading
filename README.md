@@ -8,27 +8,19 @@ To manage the paper reading, I'll use issue & label in GitHub
 # Format
 
 '''
-# Paper info
+    # Paper info
+    URL: 
+    # What is it about??
 
-This is test, but this is supposed to follow the format.
+    # What is superior to previous study??
 
-# What is it about??
+    # What are key points in methods??
 
+    # How was it validated??
 
-# What is superior to previous study??
+    # Any discussions??
 
+    # What's next to read??
 
-# What are key points in methods??
-
-
-# How was it validated??
-
-
-# Any discussions??
-
-
-# What's next to read??
-
-
-# Comments
+    # Comments
 '''
