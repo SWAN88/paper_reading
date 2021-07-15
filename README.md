@@ -8,6 +8,9 @@ To manage the paper reading, I'll use issue & label in GitHub
 # Format
     # Paper info
     URL: 
+    Journal:
+    Year:
+
     # What is it about??
 
     # What is superior to previous study??
@@ -22,4 +25,4 @@ To manage the paper reading, I'll use issue & label in GitHub
 
     # Comments
 
-### The exmaple #1
+The exmaple #1
